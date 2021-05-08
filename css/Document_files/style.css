@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap");
+body {
+  font-family: 'Roboto', sans-serif; }
+
+.section-outer {
+  border-bottom: 1px solid #d8e3fe; }
+
+.section-inner {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  margin: 0 auto;
+  max-width: 900px; }
+  .section-inner--wide {
+    max-width: 1200px; }
+
+.section-header .section-inner {
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+.section-hero-image {
+  background-color: #F4F7FF; }
+
+.section-customers .section-inner {
+  padding-top: 60px;
+  padding-bottom: 60px; }
+
+.section-plan-and-manage {
+  background-color: #F5F8FF; }
+
+.section-features
+.section-stats {
+  background-color: red; }
+  .section-features
+.section-stats .section-inner {
+    padding-top: 60px;
+    padding-bottom: 60px; }
+
+.section-blog {
+  background-color: #F5F8FF; }
+
+.section-quotes {
+  background-color: #EAF0FF; }
+
+.section-faq {
+  background-color: #red; }
+
+.section-get-started {
+  background-color: #6888FF; }
+
+.section-newsletter {
+  background-color: #FCFDFF; }
+
+.section-footer .section-inner {
+  padding-top: 60px;
+  padding-bottom: 60px; }
